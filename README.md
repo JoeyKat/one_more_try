@@ -28,7 +28,7 @@ git remote add origin https://github.com/JoeyKat/one_more_try.git
 These are the responses you should see for the commands above:
 
 git init
-Initialized empty Git repository in /home/joesikes/Gitz/one_more_try/.git/
+Initialized empty Git repository in /home/joeykat/Gitz/one_more_try/.git/
 
 git add README.md
 (nothing)
