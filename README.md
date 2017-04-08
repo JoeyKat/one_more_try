@@ -51,5 +51,15 @@ To https://github.com/JoeyKat/one_more_try.git
  * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
 
-- AND THAT'S ALL FOLKS!
+------------------------------------------------
+
+HERE'S HOW TO PUSH UPDATES FOR THE FILE WE JUST COMMITED
+
+Run the following commands:
+
+git init
+git add README.md
+git commit -m "update to README.md"
+git push -u origin master
+
 
